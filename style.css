@@ -21,7 +21,7 @@ header {
     color: #777;
     background: #ebebeb;
     position: relative;
-    top: 12px;
+    top: 8px;
     left: 70px;
     width: 76%;
     height: 58px;
@@ -33,30 +33,28 @@ nav {
     margin: 13px;
     padding: 17px;
     position: relative;
-    top: 10px;
-    left: 74px;
+    top: -3px;
+    left: 77px;
     width: 76%;
 }
 
 section{
     color: #777;
     background: #ebebeb;
-    height: 40%;
+    height: 41%;
     width: 42%;
     position: relative;
-    left: 87px;
-    top: 28px;
+    left: 89px;
 }
 
 aside {
     color: #777;
     background: #ebebeb;
     float: right;
-    height: 45%;
-    width: 31%;
+    height: 41%;
+    width: 32%;
     position: relative;
-    right: 157px;
-    top: 18px;
+    right: 141px;
 }
 
 article{
@@ -66,7 +64,7 @@ article{
     height: 64%;
     position: relative;
     left: 12px;
-    top: 40px;
+    top: 36px;
 
 
 }
@@ -76,9 +74,10 @@ article{
     background: #ebebeb;
     margin: 8px;
     position: relative;
-    top:6px;
-    width:359;
+    top: 6px;
+    width:337px;
     left: 14px;
+    height:36px;
 }
 
 #paragrah{
@@ -86,9 +85,10 @@ article{
     background: #ebebeb;
     margin: 8px;
     position: relative;
-    left: 16px;
-    height: 43px;
-    width: 357px;
+    left: 14px;
+    height: 37px;
+    width: 337px;
+    top: 8px;
 } 
 
 footer {
@@ -98,7 +98,7 @@ footer {
     background: #ebebeb;
     clear: both;
     position: relative;
-    left: 67px;
-    top:13px;
-    width:76%;
+    left: 70px;
+    top:-3px;
+    width: 76%;
 }
